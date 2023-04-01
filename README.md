@@ -1,2 +1,2 @@
-# like_liona_study
+# like_lion_study
 멋쟁이 사자처럼 스터디
